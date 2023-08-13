@@ -1,0 +1,54 @@
+.log{
+    background: white;
+    margin: 160px;
+    text-align: center;
+    border-radius: 15px;
+    width: 600px;
+    height: 450px;
+    margin-left: 460px;
+    padding-top: 15px;
+    margin-bottom: 100px;
+}
+
+.log form{
+    display: grid;
+    justify-content: center;
+    text-align: justify;
+}
+
+.inp{
+    width: 270px;
+    padding: 7px;
+}
+
+.log label{
+    margin-bottom: 8px;
+}
+
+.box{
+    text-align: justify;
+    margin-top:10px;
+}
+
+.box label{
+    margin-left: 5px;
+
+}
+
+.bnt{
+    display: grid;
+    justify-content: center;
+    text-align: end;
+    
+}
+
+.bnt p{
+    font-size: 11px;
+    color: rgb(92, 93, 94);
+}
+
+.bnt a{
+    text-decoration: none ;
+    color: rgb(0, 115, 255) ;
+    font-weight: bold;
+}

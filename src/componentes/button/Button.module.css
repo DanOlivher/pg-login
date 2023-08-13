@@ -1,0 +1,10 @@
+.bnt{
+    background-color: rgb(0, 115, 255);
+    color: white;
+    width: 280px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
